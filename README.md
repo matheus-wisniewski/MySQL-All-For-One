@@ -1,10 +1,10 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Olá, boas-vindas ao repositório do projeto MySQL All For One!
+
+# Sobre o projeto
+
+Este projeto foi desenvolvido na seção 02 - Introdução à SQL do [curso de Desenvolvimento Web da Trybe](https://www.betrybe.com/formacao-desenvolvimento-web). <br>
+A resolução dos requisitos podem ser encontradas no arquivo [Requisitos](./Requisitos.md).
+
+# Objetivos do projeto e ferramentas utilizadas
+
+Nesse projeto desenvolvi queries (Comandos SQL) para resolver os 25 desafios propostos a fim de testar os conhecimentos adquiridos na seção.
