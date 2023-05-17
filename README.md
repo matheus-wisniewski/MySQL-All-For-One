@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-Este projeto foi desenvolvido na seção 02 - Introdução à SQL do [curso de Desenvolvimento Web da Trybe](https://www.betrybe.com/formacao-desenvolvimento-web) no módulo de backend. <br>
+Este projeto foi desenvolvido na seção 02 - Introdução à SQL do [curso de Desenvolvimento Web da Trybe](https://www.betrybe.com/formacao-desenvolvimento-web) no módulo de back-end. <br>
 A resolução dos requisitos podem ser encontradas no arquivo [Requisitos](./Requisitos.md).
 
 # Objetivos do projeto e ferramentas utilizadas
